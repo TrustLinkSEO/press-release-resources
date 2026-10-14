@@ -57,3 +57,5 @@ Looking for more SEO and digital marketing resources? Explore our guides:
 - [Press Release Resources](https://github.com/TrustLinkSEO/press-release-resources)
 
 Visit our website: https://trustlinkseo.com/
+
+- [How to Write an Effective Press Release](https://github.com/TrustLinkSEO/press-release-resources/blob/main/how-to-write-an-effective-press-release.md)
